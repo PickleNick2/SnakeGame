@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/mingw64_ucrt/include",
+                "C:/mingw64_ucrt/include/c++/14.2.0",
+                "C:/mingw64_ucrt/include/c++/14.2.0/x86_64-w64-mingw32",
+                "C:/mingw64_ucrt/x86_64-w64-mingw32/include",
+                "C:/mingw64/include",
+                "C:/mingw64/include/c++/15.1.0",
+                "C:/mingw64/include/c++/15.1.0/x86_64-w64-mingw32",
+                "C:/mingw64/x86_64-w64-mingw32/include",
+                "C:/SFML-3.0.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/mingw64_ucrt/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "browse": {}
+        }
+    ],
+    "version": 4
+}

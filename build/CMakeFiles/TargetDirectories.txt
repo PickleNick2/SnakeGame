@@ -1,0 +1,3 @@
+C:/ESP_Ntrip/Personal/Cpp/build/CMakeFiles/Snake.dir
+C:/ESP_Ntrip/Personal/Cpp/build/CMakeFiles/edit_cache.dir
+C:/ESP_Ntrip/Personal/Cpp/build/CMakeFiles/rebuild_cache.dir
